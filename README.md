@@ -1,1 +1,4 @@
-# ldnio-daily-calendar
+# LDNIO Daily Calendar
+
+این پروژه یک تقویم روزانه ساده با لوگوی LDNIO Mashhad است.
+نمایش تاریخ شمسی، میلادی و قمری و بخش یادداشت روزانه دارد.
