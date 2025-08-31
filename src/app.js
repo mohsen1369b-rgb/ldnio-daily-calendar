@@ -15,6 +15,7 @@ export default function App() {
       month: "long",
       day: "numeric"
     });
+
     const shamsi = "۱۰ شهریور ۱۴۰۴";
     const ghamari = "۲۷ صفر ۱۴۴۷";
 
